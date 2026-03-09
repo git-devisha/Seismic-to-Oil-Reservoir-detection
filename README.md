@@ -4,9 +4,9 @@
 
 | Name | Roll No. | Department |
 |---|---|---|
-| Devisha Bhargava *(Presenting)* | 23cd3013 | Computer Science & Engineering |
-| Shivam Shaurya | 23cs2039 | Computer Science & Engineering |
-| Kaustav Banerjee | 23ev3013 | Electrical & Electronics Engineering |
+| Devisha Bhargava | Computer Science & Engineering |
+| Shivam Shaurya | Computer Science & Engineering |
+| Kaustav Banerjee | Electrical & Electronics Engineering |
 
 ---
 
