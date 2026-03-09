@@ -2,8 +2,8 @@
 
 ## 👥 Authors
 
-| Name | Roll No. | Department |
-|---|---|---|
+| Name | Department |
+|---|---|
 | Devisha Bhargava | Computer Science & Engineering |
 | Shivam Shaurya | Computer Science & Engineering |
 | Kaustav Banerjee | Electrical & Electronics Engineering |
